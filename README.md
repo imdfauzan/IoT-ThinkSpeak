@@ -1,3 +1,5 @@
+# Laporan Tugas IoT 1
+
 ## Anggota Kelompok
 
 | No | Nama                   | NRP         |
@@ -7,7 +9,10 @@
 
 ## Alat
 - ESP32
-- kabel male to female
+- kabel Male-to-Female
 - Kabel Female-to-Female
-- HC-SR04
-- Lampu LED
+- Sensor Ultrasonic HC-SR04
+- Lampu LED Merah
+
+## Langkah-Langkah
+
