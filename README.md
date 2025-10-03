@@ -7,6 +7,7 @@
 
 ## Alat
 - ESP32
+- kabel male to female
 - Kabel Female-to-Female
 - HC-SR04
 - Lampu LED
