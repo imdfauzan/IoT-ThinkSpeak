@@ -14,8 +14,8 @@ Proyek ini berfungsi untuk mendeteksi jarak menggunakan sensor ultrasonik HC-SR0
 2. Sensor Ultrasonik HC-SR04: Untuk mengukur jarak.
 3. LED 5mm (Merah): Sebagai indikator peringatan visual.
 4. Resistor 220Ω: Untuk membatasi arus ke LED.
-5. Breadboard: Sebagai papan sirkuit untuk merangkai komponen.
-6. Kabel Jumper: Untuk menghubungkan semua komponen.
+6. Kabel Female-to-Female.
+7. Kabel Male-to-Female.
 
 ## 🛠️ Langkah-langkah
 1. Pemasangan Komponen (Wiring)
@@ -130,7 +130,7 @@ void loop() {
   delay(500);
 }
 ```
-[File Kode Program (main.ino)](src/main.ino)
+[File Kode Program (code.ino)](src/code.ino)
 ## 📷 Dokumentasi
 1. **Output di Terminal**
 
