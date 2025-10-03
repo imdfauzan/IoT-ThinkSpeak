@@ -133,10 +133,13 @@ void loop() {
 [File Kode Program (main.ino)](src/main.ino)
 ## 📷 Dokumentasi
 1. **Output di Terminal**
+
    ![](src/ss-output-terminal.png)
 
 2. **Output di ThingSpeak**
+   
    ![](src/ss-output-thingspeak.png)
 
 3. **Dokumentasi Fisik**
+   
    ![](src/hasil-foto.jpg)
